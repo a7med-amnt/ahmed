@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed
 - 👀 I’m interested in, I don't know
 - 🌱 I’m currently learning, Improving what I have learned (everything)
-- 💞️ I’m looking to collaborate on, ! 
+- 💞️ I’m looking to collaborate on, ?
 - 📫 How to reach me, My accounts or wy website
 - ⚡ Fun fact: !
 
