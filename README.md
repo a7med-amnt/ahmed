@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Ahmed
-- 👀 I’m interested in, I don't know
-- 🌱 I’m currently learning, Improving what I have learned (everything)
-- 💞️ I’m looking to collaborate on, ?
-- 📫 How to reach me, My accounts or my website
-- ⚡ Fun fact: !
+- ☝ go to see my accounts
 
 <!---
 ahmed-nt/ahmed-nt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
