@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ahmed
 - ☝ go to see my accounts
+- current project: ecommerce
 
 <!---
 ahmed-nt/ahmed-nt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
